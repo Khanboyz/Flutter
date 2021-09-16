@@ -1,0 +1,15 @@
+main(List<String> args) {
+  runApp(
+    MaterialApp(
+      home: Scaffold(appBar: AppBar(
+        
+      ),
+      body: Center(child: Text("Miftahul \nJannat", 
+      style: TextStyle(
+        fontSize: 90, 
+        color: Colors.red,
+        fontWeight: FontWeight.w900,
+        letterSpacing: 8.2,
+        backgroundColor: Colors.amberAccent[400],
+        wordSpacing: 8.5,
+        
